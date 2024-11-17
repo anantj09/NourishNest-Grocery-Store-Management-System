@@ -75,7 +75,7 @@ The billing system enhances the checkout experience by providing:
     - Install MySQL and set up a database.
 2. Clone the Repository:
 
-        git clone https://github.com/your-repo/nourishnest.git
+        git clone https://github.com/anantj09/NourishNest-Grocery-Store-Management-System
 
 4. Database Setup:
     - Import the provided SQL file to your MySQL database.
